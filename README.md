@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello World! My name is Federico Canale and i am an Aeronautical Engineering Studente at "La Sapienza" university of Rome, Welcome to my profile!
 <!--
 **Canale-1841096/Canale-1841096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
