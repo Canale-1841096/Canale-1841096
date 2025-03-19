@@ -1,5 +1,6 @@
 ### Hi there 👋
-Hello World! My name is Federico Canale and i am an Aeronautical Engineering Studente at "La Sapienza" university of Rome, Welcome to my profile!
+Hello World! My name is Federico Canale and i am an M.Sc. Aeronautical Engineering Graduate of "La Sapienza" university of Rome, Welcome to my profile!
+At the moment i am working as a postgraduate fellowship researcher.
 
 This line here is to test if my system is working properly
 <!--
